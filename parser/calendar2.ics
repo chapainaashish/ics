@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Costagli, Elisa";RSVP=TRUE:mailto:elisa.costagli@autostrade.it
+ATTENDEE;CN="Scanu, Christian";RSVP=TRUE:mailto:christian.scanu@autostrade.
+	it
+ATTENDEE;CN="Augenti, Marco";RSVP=TRUE:mailto:marco.augenti@autostrade.it
+ATTENDEE;CN="Vergine, Giulio";RSVP=TRUE:mailto:giulio.vergine@autostrade.it
+ATTENDEE;CN="Costantini, Daniela";RSVP=TRUE:mailto:daniela.costantini-srs@a
+	utostrade.it
+ATTENDEE;CN="Valentini, Alessio";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ales
+	sio.valentini@autostrade.it
+ATTENDEE;CN="Molner, Luciano";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:luciano
+	.molner@autostrade.it
+ATTENDEE;CN="Razzicchia, Pier Paolo";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	pierpaolo.razzicchia@autostrade.it
+CLASS:PUBLIC
+CREATED:20240628T152522Z
+DESCRIPTION: \n\n__________________________________________________________
+	______________________\n\nMicrosoft Teams Serve aiuto? <https://eur02.safe
+	links.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%
+	3Fomkt%3Dit-IT&data=05%7C02%7Calessio.valentini%40autostrade.it%7Ce40740ef
+	f867465a96fb08dc94dcbbde%7C891db30d5e6a485492886a203bf7d40c%7C1%7C0%7C6385
+	48922955061583%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzI
+	iLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=%2BEjHdgAnRls7kyblBEFlq
+	yfDfswiJ01Sv9LVeFvVpfs%3D&reserved=0>  \n\nPartecipa alla riunione ora <ht
+	tps://eur02.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2
+	F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ODUzMjE2N2MtMjZ
+	mMS00N2QzLWJjNzctMzUwYzIwMGFkZjU2%2540thread.v2%2F0%3Fcontext%3D%257b%2522
+	Tid%2522%253a%2522891db30d-5e6a-4854-9288-6a203bf7d40c%2522%252c%2522Oid%2
+	522%253a%2522f972a477-344a-45a6-bbf8-30315ca52411%2522%257d&data=05%7C02%7
+	Calessio.valentini%40autostrade.it%7Ce40740eff867465a96fb08dc94dcbbde%7C89
+	1db30d5e6a485492886a203bf7d40c%7C1%7C0%7C638548922955071887%7CUnknown%7CTW
+	FpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%
+	3D%7C0%7C%7C%7C&sdata=vLt588TOJc%2F9cx8W03PrQNPEawIMrCYiwwip6SHoGAM%3D&res
+	erved=0>  \n\nID riunione: 377 237 532 299 \n\nPasscode: drH5Kx \n\n______
+	__________________________\n\nPer gli organizzatori: Opzioni riunione <htt
+	ps://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.micro
+	soft.com%2FmeetingOptions%2F%3ForganizerId%3Df972a477-344a-45a6-bbf8-30315
+	ca52411%26tenantId%3D891db30d-5e6a-4854-9288-6a203bf7d40c%26threadId%3D19_
+	meeting_ODUzMjE2N2MtMjZmMS00N2QzLWJjNzctMzUwYzIwMGFkZjU2%40thread.v2%26mes
+	sageId%3D0%26language%3Dit-IT&data=05%7C02%7Calessio.valentini%40autostrad
+	e.it%7Ce40740eff867465a96fb08dc94dcbbde%7C891db30d5e6a485492886a203bf7d40c
+	%7C1%7C0%7C638548922955080272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAi
+	LCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Lh3P4tir
+	tlOxp9%2FghJmZU8g9EzW5qzLEVbbtsP1pgrI%3D&reserved=0>  \n\n________________
+	________________________________________________________________\n\n \n\n_
+	_______________________________\n\nQuesto messaggio di posta elettronica (
+	inclusi gli allegati) è riservato ed è rivolto esclusivamente al destina
+	tario. Ne è\, pertanto\, vietata la copia\, la stampa\, la divulgazione o
+	 l'utilizzo da parte di qualsiasi altro soggetto non autorizzato. Qualora 
+	abbiate ricevuto questo messaggio per errore siete invitati a provvedere a
+	lla sua distruzione (inclusi i suoi allegati) e a darne comunicazione al m
+	ittente a mezzo posta elettronica. Grazie. \n\nThis e-mail (including any 
+	attachments) is confidential and may contain privileged information intend
+	ed for the addressee(s) only. Copying\, printing\, making use or disclosur
+	e by anybody else is prohibited. If you are not the intended recipient\, p
+	lease delete this message and any attachments and notify the sender by ret
+	urn e-mail. Thank you. \n
+DTEND;TZID="W. Europe Standard Time":20240709T110000
+DTSTAMP:20240625T060453Z
+DTSTART;TZID="W. Europe Standard Time":20240709T100000
+LAST-MODIFIED:20240628T152522Z
+LOCATION:Riunione di Microsoft Teams
+ORGANIZER;CN="Costagli, Elisa":mailto:elisa.costagli@autostrade.it
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:CWB & TIBCO: chiarimenti
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E0D197C59CBDDA01000000000000000
+	010000000DDD9F53C98536B438FA6C4C01A1C63C8
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta name="Gener
+	ator" content="Microsoft Word 15 (filtered medium)">\n<!--[if !mso]><style
+	>v\\:* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;
+	}\nw\\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML
+	)\;}\n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\
+	n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-f
+	ace\n	{font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	pano
+	se-1:2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.Ms
+	oNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family
+	:"Aptos"\,sans-serif\;\n	mso-ligatures:standardcontextual\;\n	mso-fareast-
+	language:EN-US\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n
+		color:#467886\;\n	text-decoration:underline\;}\nspan.me-email-text\n	{mso
+	-style-name:me-email-text\;}\nspan.me-email-text-secondary\n	{mso-style-na
+	me:me-email-text-secondary\;}\n.MsoChpDefault\n	{mso-style-type:export-onl
+	y\;\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n	{si
+	ze:612.0pt 792.0pt\;\n	margin:70.85pt 2.0cm 2.0cm 2.0cm\;}\ndiv.WordSectio
+	n1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shaped
+	efaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 
+	9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\
+	n</o:shapelayout></xml><![endif]-->\n</head>\n<body lang="IT" link="#46788
+	6" vlink="#96607D" style="word-wrap:break-word">\n<div class="WordSection1
+	">\n<p class="MsoNormal"><o:p>&nbsp\;</o:p></p>\n<div>\n<div style="margin
+	-bottom:18.0pt\;overflow:hidden">\n<p class="MsoNormal"><span style="font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">________________
+	________________________________________________________________</span><sp
+	an style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#242424\;mso-ligatures:none"><o:p></o:p></span></p>\n</div>\n<div 
+	style="margin-bottom:9.0pt">\n<p class="MsoNormal"><span class="me-email-t
+	ext"><b><span style="font-size:18.0pt\;font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#242424">Microsoft Teams</span></b></span><span style="
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">\n<a href="
+	https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2
+	FJoinTeamsMeeting%3Fomkt%3Dit-IT&amp\;data=05%7C02%7Calessio.valentini%40a
+	utostrade.it%7Ce40740eff867465a96fb08dc94dcbbde%7C891db30d5e6a485492886a20
+	3bf7d40c%7C1%7C0%7C638548922955061583%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4w
+	LjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp\;s
+	data=%2BEjHdgAnRls7kyblBEFlqyfDfswiJ01Sv9LVeFvVpfs%3D&amp\;reserved=0" ori
+	ginalsrc="https://aka.ms/JoinTeamsMeeting?omkt=it-IT" shash="vds4uegtJoe44
+	7KfvqYZE9mi7NWadTxzTaHsF5jTGm4jiZ+2RhMG6roB5hNjPdjIYIkPxro8pHbFRUrkEr34nNZ
+	auSC9wUIU434PnB4NdbA3nwoVP4MQ4146cFebH1DbGq/3vd+kf5NL5ymHKLnzHZ3gD8AokKjyx
+	CZE/R5t9C4="><span style="font-size:10.5pt\;color:#5B5FC7">Serve aiuto?</s
+	pan></a>\n<o:p></o:p></span></p>\n</div>\n<div style="margin-bottom:4.5pt"
+	>\n<p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,s
+	ans-serif\;color:#242424"><a href="https://eur02.safelinks.protection.outl
+	ook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-
+	join%2F19%253ameeting_ODUzMjE2N2MtMjZmMS00N2QzLWJjNzctMzUwYzIwMGFkZjU2%254
+	0thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522891db30d-5e6a-4854-
+	9288-6a203bf7d40c%2522%252c%2522Oid%2522%253a%2522f972a477-344a-45a6-bbf8-
+	30315ca52411%2522%257d&amp\;data=05%7C02%7Calessio.valentini%40autostrade.
+	it%7Ce40740eff867465a96fb08dc94dcbbde%7C891db30d5e6a485492886a203bf7d40c%7
+	C1%7C0%7C638548922955071887%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLC
+	JQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp\;sdata=vLt58
+	8TOJc%2F9cx8W03PrQNPEawIMrCYiwwip6SHoGAM%3D&amp\;reserved=0" originalsrc="
+	https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODUzMjE2N2MtMjZmMS0
+	0N2QzLWJjNzctMzUwYzIwMGFkZjU2%40thread.v2/0?context=%7b%22Tid%22%3a%22891d
+	b30d-5e6a-4854-9288-6a203bf7d40c%22%2c%22Oid%22%3a%22f972a477-344a-45a6-bb
+	f8-30315ca52411%22%7d" shash="C9oSXCw78cy6CJaLrQrrsaLblHCFDUGHd3wicyz57nXl
+	punp9gfOYwXD02vKpxpD6PlHbWJ5cL/ejq0COebr4gb4TrGktzlu6SjfVAstC5gStZ2Gs0ihoC
+	1hbc8A5atq84hG3GYky3qHY40Nh2bckNlnqRJlQ/A2uCsU5A+fPr0=" target="_blank" ti
+	tle="Meeting join link"><b><span style="font-size:15.0pt\;color:#5B5FC7">P
+	artecipa\n alla riunione ora</span></b></a> <o:p></o:p></span></p>\n</div>
+	\n<div style="margin-bottom:4.5pt">\n<p class="MsoNormal"><span class="me-
+	email-text-secondary"><span style="font-size:10.5pt\;font-family:&quot\;Se
+	goe UI&quot\;\,sans-serif\;color:#616161">ID riunione:\n</span></span><spa
+	n class="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\;color:#242424">377 237 532 299</span></span><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	>\n<o:p></o:p></span></p>\n</div>\n<div style="margin-bottom:18.0pt">\n<p 
+	class="MsoNormal"><span class="me-email-text-secondary"><span style="font-
+	size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161
+	">Passcode:\n</span></span><span class="me-email-text"><span style="font-s
+	ize:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	>drH5Kx</span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#242424">\n<o:p></o:p></span></p>\n</div>\n<div style="margi
+	n-bottom:18.0pt">\n<div class="MsoNormal" align="center" style="text-align
+	:center"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;colo
+	r:#242424">\n<hr size="1" width="100%" align="center">\n</span></div>\n</d
+	iv>\n<div>\n<p class="MsoNormal"><span class="me-email-text-secondary"><sp
+	an style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#616161">Per gli organizzatori:\n</span></span><span style="font-f
+	amily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="https://
+	eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.
+	com%2FmeetingOptions%2F%3ForganizerId%3Df972a477-344a-45a6-bbf8-30315ca524
+	11%26tenantId%3D891db30d-5e6a-4854-9288-6a203bf7d40c%26threadId%3D19_meeti
+	ng_ODUzMjE2N2MtMjZmMS00N2QzLWJjNzctMzUwYzIwMGFkZjU2%40thread.v2%26messageI
+	d%3D0%26language%3Dit-IT&amp\;data=05%7C02%7Calessio.valentini%40autostrad
+	e.it%7Ce40740eff867465a96fb08dc94dcbbde%7C891db30d5e6a485492886a203bf7d40c
+	%7C1%7C0%7C638548922955080272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAi
+	LCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp\;sdata=Lh3
+	P4tirtlOxp9%2FghJmZU8g9EzW5qzLEVbbtsP1pgrI%3D&amp\;reserved=0" originalsrc
+	="https://teams.microsoft.com/meetingOptions/?organizerId=f972a477-344a-45
+	a6-bbf8-30315ca52411&amp\;tenantId=891db30d-5e6a-4854-9288-6a203bf7d40c&am
+	p\;threadId=19_meeting_ODUzMjE2N2MtMjZmMS00N2QzLWJjNzctMzUwYzIwMGFkZjU2@th
+	read.v2&amp\;messageId=0&amp\;language=it-IT" shash="YG3BSDWhLTTXG16OMESAf
+	9EiwBjIaURvbB5ruDZoNlPtkFANfqrMFmAb224SUFfZvaZuQlaoTrr2LfB14y1bfRBgidiBexK
+	lPFWx8Po/xWMVeAkGtG6LiFiLF7tGJ8OZVJY7iHwTE7fy55GqWcmVZ0iDOTN2vFjsnXD1HXlPU
+	t0=" target="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">Opzioni
+	\n riunione</span></a> <o:p></o:p></span></p>\n</div>\n<div style="margin-
+	bottom:18.0pt\;overflow:hidden">\n<p class="MsoNormal"><span style="font-f
+	amily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">_________________
+	_______________________________________________________________<o:p></o:p>
+	</span></p>\n</div>\n</div>\n<p class="MsoNormal"><o:p>&nbsp\;</o:p></p>\n
+	</div>\n<div style="font-size:8pt\;  font-family: 'Calibri'\,sans-serif\;"
+	 align="justify">\n<hr>\nQuesto messaggio di posta elettronica (inclusi gl
+	i allegati) è riservato ed è rivolto esclusivamente al destinatario. Ne 
+	è\, pertanto\, vietata la copia\, la stampa\, la divulgazione o l'utilizz
+	o da parte di qualsiasi altro soggetto non autorizzato. Qualora abbiate\n 
+	ricevuto questo messaggio per errore siete invitati a provvedere alla sua 
+	distruzione (inclusi i suoi allegati) e a darne comunicazione al mittente 
+	a mezzo posta elettronica. Grazie.\n<br>\n<br>\nThis e-mail (including any
+	 attachments) is confidential and may contain privileged information inten
+	ded for the addressee(s) only. Copying\, printing\, making use or disclosu
+	re by anybody else is prohibited. If you are not the intended recipient\, 
+	please delete\n this message and any attachments and notify the sender by 
+	return e-mail. Thank you.\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20240613T122152Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

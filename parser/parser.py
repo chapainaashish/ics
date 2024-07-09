@@ -10,70 +10,46 @@ def parse_ics_to_json(ics_file_path):
     calendar = Calendar(ics_content)
     calendar_data = {
         "events": [],
-        "todos": [],
-        "journals": [],
-        "free_busy": [],
-        "timezones": [],
-        "alarms": [],
     }
 
     for event in calendar.events:
         event_details = {
             "name": event.name,
-            "begin": event.begin.isoformat(),
+            "begin": event.begin.isoformat() if event.begin else None,
+            "begin_timezone": (
+                str(event.begin.tzinfo) if event.begin and event.begin.tzinfo else None
+            ),
             "end": event.end.isoformat() if event.end else None,
+            "end_timezone": (
+                str(event.end.tzinfo) if event.end and event.end.tzinfo else None
+            ),
+            "duration": str(event.duration) if event.duration else None,
             "location": event.location,
             "description": event.description,
-            "organizer": event.organizer if hasattr(event, "organizer") else None,
-            "attendees": (
-                [attendee for attendee in event.attendees]
-                if hasattr(event, "attendees")
+            "created": event.created.isoformat() if event.created else None,
+            "last_modified": (
+                event.last_modified.isoformat() if event.last_modified else None
+            ),
+            "uid": event.uid,
+            "url": event.url,
+            "organizer": str(event.organizer) if event.organizer else None,
+            "organizer_email": (
+                event.organizer.email
+                if event.organizer and hasattr(event.organizer, "email")
                 else None
             ),
+            "attendees": (
+                [str(attendee) for attendee in event.attendees]
+                if event.attendees
+                else None
+            ),
+            "categories": list(event.categories) if event.categories else None,
+            "status": event.status,
+            "transparent": event.transparent,
+            "alarms": [str(alarm) for alarm in event.alarms] if event.alarms else None,
+            "classification": event.classification,
         }
         calendar_data["events"].append(event_details)
-
-    # for todo in calendar.todos:
-    #     todo_details = {
-    #         "name": todo.name,
-    #         "due": todo.due.isoformat() if todo.due else None,
-    #         "status": todo.status,
-    #         "description": todo.description,
-    #     }
-    #     calendar_data["todos"].append(todo_details)
-
-    # for journal in calendar.journals:
-    #     journal_details = {
-    #         "date": journal.date.isoformat() if journal.date else None,
-    #         "summary": journal.summary,
-    #         "description": journal.description,
-    #     }
-    #     calendar_data["journals"].append(journal_details)
-
-    # for freebusy in calendar.free_busy:
-    #     freebusy_details = {
-    #         "start": freebusy.start.isoformat(),
-    #         "end": freebusy.end.isoformat(),
-    #         "freebusy": freebusy.freebusy,
-    #     }
-    #     calendar_data["free_busy"].append(freebusy_details)
-
-    # for timezone in calendar.timezones:
-    #     timezone_details = {
-    #         "tzid": timezone.tzid,
-    #         "offset_from": timezone.offset_from,
-    #         "offset_to": timezone.offset_to,
-    #         "tzname": timezone.tzname,
-    #     }
-    #     calendar_data["timezones"].append(timezone_details)
-
-    # for alarm in calendar.alarms:
-    #     alarm_details = {
-    #         "action": alarm.action,
-    #         "trigger": alarm.trigger.isoformat() if alarm.trigger else None,
-    #         "description": alarm.description,
-    #     }
-    #     calendar_data["alarms"].append(alarm_details)
 
     return json.dumps(calendar_data, indent=4)
 

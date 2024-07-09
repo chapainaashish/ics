@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+ATTENDEE;CN="Di Marino, Emiliano";RSVP=TRUE:mailto:emiliano.dimarino@autost
+	rade.it
+CLASS:PUBLIC
+CREATED:20240628T152827Z
+DESCRIPTION:Vediamo se si vede la disponibilità\n\n_______________________
+	_________________________________________________________\n\nMicrosoft Tea
+	ms Serve aiuto? <https://aka.ms/JoinTeamsMeeting?omkt=it-IT>  \n\nPartecip
+	a alla riunione ora <https://teams.microsoft.com/l/meetup-join/19%3ameetin
+	g_MzgwMTdiOTEtZTc5MC00ODI2LTk5ZGItOTIyYzA4MjBiMTQw%40thread.v2/0?context=%
+	7b%22Tid%22%3a%22891db30d-5e6a-4854-9288-6a203bf7d40c%22%2c%22Oid%22%3a%22
+	e5d991ac-17ab-40ba-8a77-47ba4bb60019%22%7d>  \n\nID riunione: 386 036 489 
+	078 \n\nPasscode: yPmjQa \n\n________________________________\n\nPer gli o
+	rganizzatori: Opzioni riunione <https://teams.microsoft.com/meetingOptions
+	/?organizerId=e5d991ac-17ab-40ba-8a77-47ba4bb60019&tenantId=891db30d-5e6a-
+	4854-9288-6a203bf7d40c&threadId=19_meeting_MzgwMTdiOTEtZTc5MC00ODI2LTk5ZGI
+	tOTIyYzA4MjBiMTQw@thread.v2&messageId=0&language=it-IT>  \n\n_____________
+	___________________________________________________________________\n\n \n
+	\n
+DTEND;VALUE=DATE:20240712
+DTSTAMP:20240628T152755Z
+DTSTART;VALUE=DATE:20240711
+LAST-MODIFIED:20240628T152827Z
+LOCATION:Riunione di Microsoft Teams
+ORGANIZER;CN="Valentini, Alessio":mailto:alessio.valentini@autostrade.it
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY;LANGUAGE=it:PROVA 4
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E008000000002022B13180C9DA01000000000000000
+	010000000BA76F9F434F84C4BAA5DFF094AA1A49D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	
+	{font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2
+	 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Apto
+	s"\,sans-serif\;\n	mso-ligatures:standardcontextual\;\n	mso-fareast-langua
+	ge:EN-US\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color
+	:#467886\;\n	text-decoration:underline\;}\nspan.me-email-text\n	{mso-style
+	-name:me-email-text\;}\nspan.me-email-text-secondary\n	{mso-style-name:me-
+	email-text-secondary\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	
+	font-size:11.0pt\;\n	mso-fareast-language:EN-US\;}\n@page WordSection1\n	{
+	size:612.0pt 792.0pt\;\n	margin:70.85pt 2.0cm 2.0cm 2.0cm\;}\ndiv.WordSect
+	ion1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shap
+	edefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte ms
+	o 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" /
+	>\n</o:shapelayout></xml><![endif]--></head><body lang=IT link="#467886" v
+	link="#96607D" style='word-wrap:break-word'><div class=WordSection1><p cla
+	ss=MsoNormal>Vediamo se si vede la disponibilità<o:p></o:p></p><div><div 
+	style='margin-bottom:18.0pt\;overflow:hidden'><p class=MsoNormal><span sty
+	le='font-family:"Segoe UI"\,sans-serif\;color:#242424'>___________________
+	_____________________________________________________________</span><span 
+	style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#242424
+	\;mso-ligatures:none'><o:p></o:p></span></p></div><div style='margin-botto
+	m:9.0pt'><p class=MsoNormal><span class=me-email-text><b><span style='font
+	-size:18.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#242424'>Microsoft
+	 Teams</span></b></span><span style='font-family:"Segoe UI"\,sans-serif\;c
+	olor:#242424'> <a href="https://aka.ms/JoinTeamsMeeting?omkt=it-IT"><span 
+	style='font-size:10.5pt\;color:#5B5FC7'>Serve aiuto?</span></a> <o:p></o:p
+	></span></p></div><div style='margin-bottom:4.5pt'><p class=MsoNormal><spa
+	n style='font-family:"Segoe UI"\,sans-serif\;color:#242424'><a href="https
+	://teams.microsoft.com/l/meetup-join/19%3ameeting_MzgwMTdiOTEtZTc5MC00ODI2
+	LTk5ZGItOTIyYzA4MjBiMTQw%40thread.v2/0?context=%7b%22Tid%22%3a%22891db30d-
+	5e6a-4854-9288-6a203bf7d40c%22%2c%22Oid%22%3a%22e5d991ac-17ab-40ba-8a77-47
+	ba4bb60019%22%7d" target="_blank" title="Meeting join link"><b><span style
+	='font-size:15.0pt\;color:#5B5FC7'>Partecipa alla riunione ora</span></b><
+	/a> <o:p></o:p></span></p></div><div style='margin-bottom:4.5pt'><p class=
+	MsoNormal><span class=me-email-text-secondary><span style='font-size:10.5p
+	t\;font-family:"Segoe UI"\,sans-serif\;color:#616161'>ID riunione: </span>
+	</span><span class=me-email-text><span style='font-size:10.5pt\;font-famil
+	y:"Segoe UI"\,sans-serif\;color:#242424'>386 036 489 078</span></span><spa
+	n style='font-family:"Segoe UI"\,sans-serif\;color:#242424'> <o:p></o:p></
+	span></p></div><div style='margin-bottom:18.0pt'><p class=MsoNormal><span 
+	class=me-email-text-secondary><span style='font-size:10.5pt\;font-family:"
+	Segoe UI"\,sans-serif\;color:#616161'>Passcode: </span></span><span class=
+	me-email-text><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-
+	serif\;color:#242424'>yPmjQa</span></span><span style='font-family:"Segoe 
+	UI"\,sans-serif\;color:#242424'> <o:p></o:p></span></p></div><div style='m
+	argin-bottom:18.0pt'><div class=MsoNormal align=center style='text-align:c
+	enter'><span style='font-family:"Segoe UI"\,sans-serif\;color:#242424'><hr
+	 size=1 width="100%" align=center></span></div></div><div><p class=MsoNorm
+	al><span class=me-email-text-secondary><span style='font-size:10.5pt\;font
+	-family:"Segoe UI"\,sans-serif\;color:#616161'>Per gli organizzatori: </sp
+	an></span><span style='font-family:"Segoe UI"\,sans-serif\;color:#242424'>
+	<a href="https://teams.microsoft.com/meetingOptions/?organizerId=e5d991ac-
+	17ab-40ba-8a77-47ba4bb60019&amp\;tenantId=891db30d-5e6a-4854-9288-6a203bf7
+	d40c&amp\;threadId=19_meeting_MzgwMTdiOTEtZTc5MC00ODI2LTk5ZGItOTIyYzA4MjBi
+	MTQw@thread.v2&amp\;messageId=0&amp\;language=it-IT" target="_blank"><span
+	 style='font-size:10.5pt\;color:#5B5FC7'>Opzioni riunione</span></a> <o:p>
+	</o:p></span></p></div><div style='margin-bottom:18.0pt\;overflow:hidden'>
+	<p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:
+	#242424'>_________________________________________________________________
+	_______________<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&
+	nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:WORKINGELSEWHERE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20240628T152755Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR

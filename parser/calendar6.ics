@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;PARTSTAT=ACCEPTED;CN="Di Marino, Emiliano";RSVP=TRUE:mailto:emiliano.dimarino@autost
+	rade.it
+ATTENDEE;PARTSTAT=TENTATIVE;CN="Alessio Valentini";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:aless
+	io0valentini@gmail.com
+CLASS:PUBLIC
+CREATED:20240628T155242Z
+DESCRIPTION:Prova prova prova: Ciao\n\n____________________________________
+	____________________________________________\n\nMicrosoft Teams Serve aiut
+	o? <https://aka.ms/JoinTeamsMeeting?omkt=it-IT>  \n\nPartecipa alla riunio
+	ne ora <https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2UzZmE4MTc
+	tMGViOS00NDk4LTkxYzQtNzI4OGQxM2M4MTk0%40thread.v2/0?context=%7b%22Tid%22%3
+	a%22891db30d-5e6a-4854-9288-6a203bf7d40c%22%2c%22Oid%22%3a%22e5d991ac-17ab
+	-40ba-8a77-47ba4bb60019%22%7d>  \n\nID riunione: 377 574 031 450 \n\nPassc
+	ode: GmbmLE \n\n________________________________\n\nPer gli organizzatori:
+	 Opzioni riunione <https://teams.microsoft.com/meetingOptions/?organizerId
+	=e5d991ac-17ab-40ba-8a77-47ba4bb60019&tenantId=891db30d-5e6a-4854-9288-6a2
+	03bf7d40c&threadId=19_meeting_N2UzZmE4MTctMGViOS00NDk4LTkxYzQtNzI4OGQxM2M4
+	MTk0@thread.v2&messageId=0&language=it-IT>  \n\n__________________________
+	______________________________________________________\n\n \n\n
+DTEND;TZID="W. Europe Standard Time":20240712T210000
+DTSTAMP:20240628T150828Z
+DTSTART;TZID="W. Europe Standard Time":20240712T200000
+LAST-MODIFIED:20240628T155242Z
+LOCATION:Riunione di Microsoft Teams
+ORGANIZER;CN="Valentini, Alessio":mailto:alessio.valentini@autostrade.it
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=it:Prova Test.ICS
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000001FEB957DC9DA01000000000000000
+	010000000F66892E9DE5C2F47B89AB756B246ACDB
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	
+	{font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2
+	 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Apto
+	s"\,sans-serif\;\n	mso-ligatures:standardcontextual\;\n	mso-fareast-langua
+	ge:EN-US\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color
+	:#467886\;\n	text-decoration:underline\;}\nspan.me-email-text\n	{mso-style
+	-name:me-email-text\;}\nspan.me-email-text-secondary\n	{mso-style-name:me-
+	email-text-secondary\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	
+	font-size:11.0pt\;\n	mso-fareast-language:EN-US\;}\n@page WordSection1\n	{
+	size:612.0pt 792.0pt\;\n	margin:70.85pt 2.0cm 2.0cm 2.0cm\;}\ndiv.WordSect
+	ion1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shap
+	edefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte ms
+	o 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" /
+	>\n</o:shapelayout></xml><![endif]--></head><body lang=IT link="#467886" v
+	link="#96607D" style='word-wrap:break-word'><div class=WordSection1><p cla
+	ss=MsoNormal>Prova prova prova: Ciao<o:p></o:p></p><div><div style='margin
+	-bottom:18.0pt\;overflow:hidden'><p class=MsoNormal><span style='font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#242424'>________________________________
+	________________________________________________</span><span style='font-s
+	ize:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#242424\;mso-ligatur
+	es:none'><o:p></o:p></span></p></div><div style='margin-bottom:9.0pt'><p c
+	lass=MsoNormal><span class=me-email-text><b><span style='font-size:18.0pt\
+	;font-family:"Segoe UI"\,sans-serif\;color:#242424'>Microsoft Teams</span>
+	</b></span><span style='font-family:"Segoe UI"\,sans-serif\;color:#242424'
+	> <a href="https://aka.ms/JoinTeamsMeeting?omkt=it-IT"><span style='font-s
+	ize:10.5pt\;color:#5B5FC7'>Serve aiuto?</span></a> <o:p></o:p></span></p><
+	/div><div style='margin-bottom:4.5pt'><p class=MsoNormal><span style='font
+	-family:"Segoe UI"\,sans-serif\;color:#242424'><a href="https://teams.micr
+	osoft.com/l/meetup-join/19%3ameeting_N2UzZmE4MTctMGViOS00NDk4LTkxYzQtNzI4O
+	GQxM2M4MTk0%40thread.v2/0?context=%7b%22Tid%22%3a%22891db30d-5e6a-4854-928
+	8-6a203bf7d40c%22%2c%22Oid%22%3a%22e5d991ac-17ab-40ba-8a77-47ba4bb60019%22
+	%7d" target="_blank" title="Meeting join link"><b><span style='font-size:1
+	5.0pt\;color:#5B5FC7'>Partecipa alla riunione ora</span></b></a> <o:p></o:
+	p></span></p></div><div style='margin-bottom:4.5pt'><p class=MsoNormal><sp
+	an class=me-email-text-secondary><span style='font-size:10.5pt\;font-famil
+	y:"Segoe UI"\,sans-serif\;color:#616161'>ID riunione: </span></span><span 
+	class=me-email-text><span style='font-size:10.5pt\;font-family:"Segoe UI"\
+	,sans-serif\;color:#242424'>377 574 031 450</span></span><span style='font
+	-family:"Segoe UI"\,sans-serif\;color:#242424'> <o:p></o:p></span></p></di
+	v><div style='margin-bottom:18.0pt'><p class=MsoNormal><span class=me-emai
+	l-text-secondary><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sa
+	ns-serif\;color:#616161'>Passcode: </span></span><span class=me-email-text
+	><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:
+	#242424'>GmbmLE</span></span><span style='font-family:"Segoe UI"\,sans-ser
+	if\;color:#242424'> <o:p></o:p></span></p></div><div style='margin-bottom:
+	18.0pt'><div class=MsoNormal align=center style='text-align:center'><span 
+	style='font-family:"Segoe UI"\,sans-serif\;color:#242424'><hr size=1 width
+	="100%" align=center></span></div></div><div><p class=MsoNormal><span clas
+	s=me-email-text-secondary><span style='font-size:10.5pt\;font-family:"Sego
+	e UI"\,sans-serif\;color:#616161'>Per gli organizzatori: </span></span><sp
+	an style='font-family:"Segoe UI"\,sans-serif\;color:#242424'><a href="http
+	s://teams.microsoft.com/meetingOptions/?organizerId=e5d991ac-17ab-40ba-8a7
+	7-47ba4bb60019&amp\;tenantId=891db30d-5e6a-4854-9288-6a203bf7d40c&amp\;thr
+	eadId=19_meeting_N2UzZmE4MTctMGViOS00NDk4LTkxYzQtNzI4OGQxM2M4MTk0@thread.v
+	2&amp\;messageId=0&amp\;language=it-IT" target="_blank"><span style='font-
+	size:10.5pt\;color:#5B5FC7'>Opzioni riunione</span></a> <o:p></o:p></span>
+	</p></div><div style='margin-bottom:18.0pt\;overflow:hidden'><p class=MsoN
+	ormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#242424'>____
+	__________________________________________________________________________
+	__<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp\;</o:p><
+	/p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20240628T150828Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

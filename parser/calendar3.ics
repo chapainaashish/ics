@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Vingiani, Filippo";RSVP=TRUE:mailto:filippo.vingiani@autostrad
+	e.it
+CLASS:PUBLIC
+CREATED:20240628T143530Z
+DESCRIPTION:\n_____________________________________________________________
+	___________________ \nRiunione di Microsoft Teams \nPartecipa da computer\
+	, app per dispositivi mobili o dispositivo della stanza \nFai clic qui per
+	 partecipare alla riunione <https://teams.microsoft.com/l/meetup-join/19%3
+	ameeting_YTYzODczYzEtNzgzNy00NmViLTllYWYtMjgzZjdjMzllM2E2%40thread.v2/0?co
+	ntext=%7b%22Tid%22%3a%22891db30d-5e6a-4854-9288-6a203bf7d40c%22%2c%22Oid%2
+	2%3a%22e5d991ac-17ab-40ba-8a77-47ba4bb60019%22%7d>  \nID riunione: 311 862
+	 144 656 \nPasscode: kWPYo3 \nScarica Teams <https://www.microsoft.com/en-
+	us/microsoft-teams/download-app>  | Partecipa sul Web <https://www.microso
+	ft.com/microsoft-teams/join-a-meeting> \nAltre informazioni <https://aka.m
+	s/JoinTeamsMeeting>  | Opzioni riunione <https://teams.microsoft.com/meeti
+	ngOptions/?organizerId=e5d991ac-17ab-40ba-8a77-47ba4bb60019&tenantId=891db
+	30d-5e6a-4854-9288-6a203bf7d40c&threadId=19_meeting_YTYzODczYzEtNzgzNy00Nm
+	ViLTllYWYtMjgzZjdjMzllM2E2@thread.v2&messageId=0&language=it-IT>  \n______
+	__________________________________________________________________________
+	 \n
+DTEND;TZID="W. Europe Standard Time":20240705T143000
+DTSTAMP:20240305T171405Z
+DTSTART;TZID="W. Europe Standard Time":20240705T140000
+LAST-MODIFIED:20240628T143530Z
+LOCATION:Riunione Microsoft Teams
+ORGANIZER;CN="Valentini, Alessio":mailto:alessio.valentini@autostrade.it
+PRIORITY:5
+RECURRENCE-ID;TZID="W. Europe Standard Time":20240705T140000
+SEQUENCE:0
+SUMMARY;LANGUAGE=it:One 2 One
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D3126086206FDA01000000000000000
+	010000000209FA67822A91843BCFF4F1F2AA3B8BF
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n\n</head>\n<body>\n<br>\n<div 
+	style="width:100%\;"><span style="white-space:nowrap\;color:#5F5F5F\;opaci
+	ty:.36\;">________________________________________________________________
+	________________</span>\n</div>\n<div class="me-email-text" style="color:#
+	252424\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-s
+	erif\;" lang="it-IT">\n<div style="margin-top: 24px\; margin-bottom: 20px\
+	;"><span style="font-size: 24px\; color:#252424">Riunione di Microsoft Tea
+	ms</span>\n</div>\n<div style="margin-bottom: 20px\;">\n<div style="margin
+	-top: 0px\; margin-bottom: 0px\; font-weight: bold"><span style="font-size
+	: 14px\; color:#252424">Partecipa da computer\, app per dispositivi mobili
+	 o dispositivo della stanza</span>\n</div>\n<a class="me-email-headline" s
+	tyle="font-size: 14px\;font-family:'Segoe UI Semibold'\,'Segoe UI'\,'Helve
+	tica Neue'\,Helvetica\,Arial\,sans-serif\;text-decoration: underline\;colo
+	r: #6264a7\;" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting
+	_YTYzODczYzEtNzgzNy00NmViLTllYWYtMjgzZjdjMzllM2E2%40thread.v2/0?context=%7
+	b%22Tid%22%3a%22891db30d-5e6a-4854-9288-6a203bf7d40c%22%2c%22Oid%22%3a%22e
+	5d991ac-17ab-40ba-8a77-47ba4bb60019%22%7d" target="_blank" rel="noreferrer
+	 noopener">Fai\n clic qui per partecipare alla riunione</a> </div>\n<div s
+	tyle="margin-bottom:20px\; margin-top:20px">\n<div style="margin-bottom:4p
+	x"><span data-tid="meeting-code" style="font-size: 14px\; color:#252424\;"
+	>ID riunione:\n<span style="font-size:16px\; color:#252424\;">311 862 144 
+	656</span> </span><br>\n<span style="font-size: 14px\; color:#252424\;">Pa
+	sscode: </span><span style="font-size: 16px\; color:#252424\;">kWPYo3\n</s
+	pan>\n<div style="font-size: 14px\;"><a class="me-email-link" style="font-
+	size: 14px\;text-decoration: underline\;color: #6264a7\;font-family:'Segoe
+	 UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" hr
+	ef="https://www.microsoft.com/en-us/microsoft-teams/download-app" rel="nor
+	eferrer noopener">Scarica\n Teams</a> | <a class="me-email-link" style="fo
+	nt-size: 14px\;text-decoration: underline\;color: #6264a7\;font-family:'Se
+	goe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank"
+	 href="https://www.microsoft.com/microsoft-teams/join-a-meeting" rel="nore
+	ferrer noopener">\nPartecipa sul Web</a></div>\n</div>\n</div>\n<div style
+	="margin-bottom: 24px\;margin-top: 20px\;"><a class="me-email-link" style=
+	"font-size: 14px\;text-decoration: underline\;color: #6264a7\;font-family:
+	'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_bla
+	nk" href="https://aka.ms/JoinTeamsMeeting" rel="noreferrer noopener">Altre
+	\n informazioni</a> | <a class="me-email-link" style="font-size: 14px\;tex
+	t-decoration: underline\;color: #6264a7\;font-family:'Segoe UI'\,'Helvetic
+	a Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" href="https://tea
+	ms.microsoft.com/meetingOptions/?organizerId=e5d991ac-17ab-40ba-8a77-47ba4
+	bb60019&amp\;tenantId=891db30d-5e6a-4854-9288-6a203bf7d40c&amp\;threadId=1
+	9_meeting_YTYzODczYzEtNzgzNy00NmViLTllYWYtMjgzZjdjMzllM2E2@thread.v2&amp\;
+	messageId=0&amp\;language=it-IT" rel="noreferrer noopener">\nOpzioni riuni
+	one</a> </div>\n</div>\n<div style="font-size: 14px\; margin-bottom: 4px\;
+	font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;">
+	\n</div>\n<div style="font-size: 12px\;"></div>\n<div></div>\n<div style="
+	width:100%\;"><span style="white-space:nowrap\;color:#5F5F5F\;opacity:.36\
+	;">_______________________________________________________________________
+	_________</span>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-APPTLASTSEQUENCE:0
+X-MS-OLK-APPTSEQTIME:20240305T171405Z
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
