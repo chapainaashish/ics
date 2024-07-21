@@ -173,6 +173,6 @@ def parse_icalendar(file_path):
 
 
 # Example usage
-file_path = "/home/aashish/Documents/ics/parser/calendar6.ics"
+file_path = "/home/aashish/Documents/ics/parser/calendar3.ics"
 events = parse_icalendar(file_path)
 print(json.dumps(events, indent=4))
