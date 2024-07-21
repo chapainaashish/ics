@@ -25,8 +25,9 @@ def format_value(value):
 def get_attendees(attendees, role, partstat=None):
     result = []
     if isinstance(attendees, str):
-        if (role == "REQ-PARTICIPANT") and (partstat is None):
-            result.append(attendees.replace("mailto:", ""))
+        if role in ["REQ-PARTICIPANT", "OPT-PARTICIPANT"]:
+            if partstat is None or partstat == "NEEDS-ACTION":
+                result.append(attendees.replace("mailto:", ""))
     else:
         if not isinstance(attendees, list):
             attendees = [attendees]
@@ -52,8 +53,9 @@ def rearrange_name(name):
 def get_attendee_names(attendees, role, partstat=None):
     result = []
     if isinstance(attendees, str):
-        if (role == "REQ-PARTICIPANT") and (partstat is None):
-            result.append(attendees.replace("mailto:", ""))
+        if role in ["REQ-PARTICIPANT", "OPT-PARTICIPANT"]:
+            if partstat is None or partstat == "NEEDS-ACTION":
+                result.append(attendees.replace("mailto:", ""))
     else:
         if not isinstance(attendees, list):
             attendees = [attendees]
@@ -254,7 +256,6 @@ def parse_icalendar(file_path):
     return event_list
 
 
-# Example usage
 file_path = "/home/aashish/Documents/ics/parser/calendar2.ics"
 events = parse_icalendar(file_path)
 print(json.dumps(events, indent=4))
