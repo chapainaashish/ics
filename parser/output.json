@@ -1,0 +1,65 @@
+[
+    {
+        "UID": "040000008200E00074C5B7101A82E00800000000D3126086206FDA01000000000000000010000000209FA67822A91843BCFF4F1F2AA3B8BF",
+        "Class": "PUBLIC",
+        "Created": "20240628T143530Z",
+        "DTStamp": "20240305T171405Z",
+        "Last-Modified": "20240628T143530Z",
+        "Location": "Riunione Microsoft Teams",
+        "Organizer": {
+            "CN": "Alessio Valentini",
+            "mail": "alessio.valentini@autostrade.it"
+        },
+        "NameEvent": "One 2 One",
+        "Description": "\\n________________________________________________________________________________ \\nRiunione di Microsoft Teams \\nPartecipa da computer\\, app per dispositivi mobili o dispositivo della stanza \\nFai clic qui per partecipare alla riunione <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYzODczYzEtNzgzNy00NmViLTllYWYtMjgzZjdjMzllM2E2%40thread.v2/0?context=%7b%22Tid%22%3a%22891db30d-5e6a-4854-9288-6a203bf7d40c%22%2c%22Oid%22%3a%22e5d991ac-17ab-40ba-8a77-47ba4bb60019%22%7d>  \\nID riunione: 311 862 144 656 \\nPasscode: kWPYo3 \\nScarica Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Partecipa sul Web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \\nAltre informazioni <https://aka.ms/JoinTeamsMeeting>  | Opzioni riunione <https://teams.microsoft.com/meetingOptions/?organizerId=e5d991ac-17ab-40ba-8a77-47ba4bb60019&tenantId=891db30d-5e6a-4854-9288-6a203bf7d40c&threadId=19_meeting_YTYzODczYzEtNzgzNy00NmViLTllYWYtMjgzZjdjMzllM2E2@thread.v2&messageId=0&language=it-IT>  \\n________________________________________________________________________________ \\n",
+        "Time_Zone_ID": "W. Europe Standard Time",
+        "Begin_Time": "2024-07-05T14:00:00",
+        "End_Time": "2024-07-05T14:30:00",
+        "Duration": null,
+        "RRule": null,
+        "Sequence": "0",
+        "Status": null,
+        "Transp_Time": "OPAQUE",
+        "BusyStatus_OTL": "BUSY",
+        "IntendedBusyStatus_OTL": null,
+        "MandatoryAttendee": {
+            "mail": {
+                "ALL": "filippo.vingiani@autostrade.it",
+                "NA": "filippo.vingiani@autostrade.it",
+                "ACPT": "",
+                "DECN": "",
+                "TENT": ""
+            },
+            "CN": {
+                "ALL": "filippo.vingiani@autostrade.it",
+                "NA": "filippo.vingiani@autostrade.it",
+                "ACPT": "",
+                "DECN": "",
+                "TENT": ""
+            }
+        },
+        "OptionalAttendee": {
+            "mail": {
+                "ALL": "filippo.vingiani@autostrade.it",
+                "NA": "filippo.vingiani@autostrade.it",
+                "ACPT": "",
+                "DECN": "",
+                "TENT": ""
+            },
+            "CN": {
+                "ALL": "filippo.vingiani@autostrade.it",
+                "NA": "filippo.vingiani@autostrade.it",
+                "ACPT": "",
+                "DECN": "",
+                "TENT": ""
+            }
+        },
+        "Alarms": [
+            {
+                "Trigger": "-PT5M",
+                "Action": "DISPLAY",
+                "Description": "Reminder"
+            }
+        ]
+    }
+]
